@@ -5,7 +5,7 @@ climate:
     name: Office AC
     unique_id: office_ac
     device_code: 1000
-    controller_data: remote.bedroom_remote
+    controller_data: remote.universal_remote_living_room
     temperature_sensor: sensor.temperature
     humidity_sensor: sensor.humidity
     power_sensor: binary_sensor.ac_power
